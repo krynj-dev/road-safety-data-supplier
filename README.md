@@ -1,4 +1,4 @@
-# road-safety-rater
+# road-safety-data-supplier
 Entry for GovHack 2021 QLD Road Safety challenge.
 
 ## Setup instructions
